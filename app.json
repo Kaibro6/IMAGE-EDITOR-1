@@ -9,23 +9,23 @@
         "DihanOfficial"
     ],
     "website": "https://t.me/SDBOTs_inifinity",
-    "repository": "https://github.com/Madushankabro/IMAGE-EDITOR",
+    "repository": "https://github.com/kaibro6/IMAGE-EDITOR",
     "success_url": "",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "6168460071:AAH83Rx6GnUZEwtan-iwvQeW9oToD2G8rZc",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
-            "value": ""
+            "description": "d52c7824d0e66903a0724b800a16ce2c",
+             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org",
+            "description": "22923523",
             "value": ""
         },
         "RemoveBG_API": {
-            "description": "Get this api from https://www.remove.bg/b/background-removal-api",
+            "description": "Fng96va13uCZoXNLwNL4Vtfa",
             "value": "",
             "required": false
         },
